@@ -3,7 +3,16 @@
 ### Level: Beginner 
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+
+### Workshop 1: The Azure Function that can see
+TBA
+
+### Workshop 2: Train and deploy a PyTorch model using the Azure Machine Learning platform.
+TBA
+
+### Workshop 3: Build and deploy a chatbot
+TBA
+
 
 ## Requirements
 Visual Studio Code
