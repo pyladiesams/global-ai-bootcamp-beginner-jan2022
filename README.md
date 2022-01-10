@@ -33,6 +33,7 @@ Visual Studio Code
 
 ## Usage
 If you have your own Azure subsctiption start [here](https://workshops.globalai.community/setup/dev-environment)
+
 If you do not have own Azure subscription start [here](https://workshops.globalai.community/setup/azure-pass)
 
 ## Video record
